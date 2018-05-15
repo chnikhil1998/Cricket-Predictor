@@ -1,5 +1,5 @@
 # Points Table Predictor
-A python script that helps to play loco trvia game real time.
+A python script that helps to predict the chances of a team to qualify to next round in a tournament.
 ### How to use
 ```sh
 $ python predict.py
